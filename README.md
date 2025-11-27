@@ -26,8 +26,10 @@
 
 ---
 ## ✨ Demo
-<a href="https://samirarezai.github.io/" style="margin-bottom:16px;display:block;">Samira's Portfolio</a>
-<a href="https://samirarezai.github.io/"><img src="https://github.com/samirarezai/samirarezai.github.io/blob/main/assets/img/branding/github-portfolio.jpg" width="100%" /></a>
+
+[Samira's Portfolio](https://samirarezai.github.io/)
+
+[![Portfolio Preview](https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/github-portfolio.jpg)](https://samirarezai.github.io/)
 
 ## ✨ Features
 
