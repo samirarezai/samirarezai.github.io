@@ -27,7 +27,7 @@
 ---
 ## ✨ Demo
 <a href="https://samirarezai.github.io/">Samira's Portfolio</a>
-<img src="https://github.com/samirarezai/samirarezai.github.io/blob/main/assets/img/branding/github-portfolio.jpg" width="100%" />
+<a href="https://samirarezai.github.io/"><img src="https://github.com/samirarezai/samirarezai.github.io/blob/main/assets/img/branding/github-portfolio.jpg" width="100%" /></a>
 
 ## ✨ Features
 
